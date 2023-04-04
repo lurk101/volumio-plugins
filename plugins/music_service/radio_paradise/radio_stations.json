@@ -18,47 +18,42 @@
       {
         "title": "Radio Paradise Main Mix (FLAC)",
         "uri": "webrp/0",
-        "url": "https://stream.radioparadise.com/flac"
+        "url": "http://stream.radioparadise.com/flacm"
       },
       {
         "title": "Radio Paradise Mellow Mix (FLAC)",
         "uri": "webrp/1",
-        "url": "https://stream.radioparadise.com/mellow-flac"
+        "url": "http://stream.radioparadise.com/mellow-flacm"
       },
       {
         "title": "Radio Paradise Rock Mix (FLAC)",
         "uri": "webrp/2",
-        "url": "https://stream.radioparadise.com/rock-flac"
+        "url": "http://stream.radioparadise.com/rock-flacm"
       },
       {
         "title": "Radio Paradise World/Etc Mix (FLAC)",
         "uri": "webrp/3",
-        "url": "https://stream.radioparadise.com/world-etc-flac"
+        "url": "http://stream.radioparadise.com/global-flacm"
       },
       {
-        "title": "Radio Paradise (AAC 320k)",
+        "title": "Radio Paradise Main Mix (AAC)",
         "uri": "webrp/4",
-        "url": "http://stream-uk1.radioparadise.com/aac-320"
+        "url": "http://stream.radioparadise.com/aac-320"
       },
       {
-        "title": "Radio Paradise (AAC 128k)",
+        "title": "Radio Paradise Mellow Mix (AAC)",
         "uri": "webrp/5",
-        "url": "http://stream-uk1.radioparadise.com/aac-128"
+        "url": "http://stream.radioparadise.com/mellow-320"
       },
       {
-        "title": "Radio Paradise (AAC 64k)",
+        "title": "Radio Paradise Rock Mix (AAC)",
         "uri": "webrp/6",
-        "url": "http://stream-uk1.radioparadise.com/aac-64"
+        "url": "http://stream.radioparadise.com/rock-320"
       },
       {
-        "title": "Radio Paradise (MP3 192k)",
+        "title": "Radio Paradise World/Etc Mix (AAC)",
         "uri": "webrp/7",
-        "url": "http://stream-uk1.radioparadise.com/mp3-192"
-      },
-      {
-        "title": "Radio Paradise (MP3 128k)",
-        "uri": "webrp/8",
-        "url": "http://stream-uk1.radioparadise.com/mp3-128"
+        "url": "http://stream.radioparadise.com/global-320"
       }
     ]
   }
